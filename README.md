@@ -1,7 +1,7 @@
 # 🌊 Shiny Shores: Marsh Shoreline Change Analysis Simulations 🌊
 
 ## Quick Links
-* [**Launch the Interactive Web App**]([https://sea-aaron-bland.github.io/shiny_shores/])
+* [**Launch the Interactive Web App**](https://sea-aaron-bland.github.io/shiny_shores/)
 * **Standalone Scripts**: Look inside the `/scripts` directory to download our raw R scripts.
 * **Relevant publications**
   * [**Read my PhD Dissertation (Chapter 2)**](https://www.proquest.com/openview/1e48fa2143da32021861b1d9829cedea/1?cbl=18750&diss=y&pq-origsite=gscholar)
