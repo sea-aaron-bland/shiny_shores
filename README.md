@@ -4,8 +4,9 @@
 * [**Launch the Interactive Web App**](https://sea-aaron-bland.github.io/shiny_shores/)
 * **Standalone Scripts**: Look inside the `/scripts` directory to download our raw R scripts.
 * **Relevant publications**
+  * [**Read the article in Restoration Ecology (Bland et al., 2026)**](https://onlinelibrary.wiley.com/doi/10.1111/rec.70538)
   * [**Read my PhD Dissertation (Chapter 2)**](https://www.proquest.com/openview/1e48fa2143da32021861b1d9829cedea/1?cbl=18750&diss=y&pq-origsite=gscholar)
-  * *Manuscript submitted to Restoration Ecology, link to publication forthcoming!*
+ 
 
 ## App Introduction
 
